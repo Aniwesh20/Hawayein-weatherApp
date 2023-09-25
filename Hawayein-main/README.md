@@ -6,6 +6,6 @@ Technology: ReactJs, VITE, OpenWeatherAPI, NodeJs.
 
 ALso available local Indian language.
 
-Live Demo: https://hawayein-nine.vercel.app/
 
- ![](./R2.png)
+
+
